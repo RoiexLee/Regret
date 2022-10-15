@@ -1,0 +1,5 @@
+Game_name:后悔;
+Game_key:LqsG7vu;
+Title_img:title.jpg;
+Title_bgm:title.mp3;
+Loading_img:none;
